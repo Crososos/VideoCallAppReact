@@ -1,0 +1,6 @@
+//Video Konferans Icin
+https://docs.zegocloud.com/article/14935
+npm i @zegocloud/zego-uikit-prebuilt --save
+
+//Siteye uyelik actiktan sonra istenilen uygulamayi secip islem yapabiliyorsunuz
+https://console.zegocloud.com/
